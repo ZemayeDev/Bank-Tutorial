@@ -81,6 +81,12 @@ body{
     max-width: 300px;
 }
 
+.hero-image{
+    border: solid;
+    border-radius: 200px;
+    margin-top: 3rem;
+}
+
 .cta-button{
     background-color: white;
     color: blue;
